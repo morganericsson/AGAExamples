@@ -113,3 +113,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+### Gradle ###
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
